@@ -2,7 +2,7 @@
 
 Always improving.  Built for python 3.5+
 
-Short program that will allow up to 8 options legs and show profit/loss graph for all entered.  Utilizes Black-Scholes modeling from mibian.  Symbols are based on YAHOO Finance symbol list.<br>
+Short program that will allow up to 8 options legs and show profit/loss graph for all entered.  Utilizes Black-Scholes modeling from mibian.  Symbols are based on YAHOO Finance symbol list.<br><br>
 Index symbols can be mapped as follows:<br>
 {"DJIA":"^DJI", "SPX":"^GSPC", "NDX":"^NDX", "RUT":"^RUT", "VIX":"^VIX"}
 
